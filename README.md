@@ -3,6 +3,7 @@
 
 ### Упутство:
 1. Инсталирати python3 и pip3 и git на систему
+  
   Arch/Manjaro:
   ```bash
   sudo pacman -S python python-pip git
@@ -16,6 +17,7 @@
   sudo yum install python3 python3-pip git
   ```
 2. Инсталирати неопходне библиотеке на pip3
+  
   Arch/Manjaro:
   ```bash
   pip install matplotlib
@@ -34,6 +36,7 @@
   cd optimizacija-parametara-obrade
   ```
 4. Покренути python скрипту
+  
   Arch:
   ```bash
   python trening.py
